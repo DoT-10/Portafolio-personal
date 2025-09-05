@@ -119,7 +119,7 @@ export const dataPortfolio = [
     },
     {
         id: 4,
-        title: "Instituto Profesional AIEP",
+        title: "Técnico en programación",
         image: "/aieplogo.jpg",
         description: "2024 - Actualidad"
     },
